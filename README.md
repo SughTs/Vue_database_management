@@ -24,6 +24,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ————————————————
 
-2022.10.8 github仓库建立，地址为：git@github.com:/SughTs/Vue_database_management.git
+2022.10.8：
+
+github仓库建立，地址为：git@github.com:/SughTs/Vue_database_management.git
 
 如果上传过慢可以尝试此教程：https://blog.csdn.net/W_317/article/details/106518894
