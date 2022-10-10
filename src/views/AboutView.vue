@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>此处是介绍页面</h1>
+
   </div>
 </template>
