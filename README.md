@@ -29,3 +29,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 github仓库建立，地址为：git@github.com:/SughTs/Vue_database_management.git
 
 如果上传过慢可以尝试此教程：https://blog.csdn.net/W_317/article/details/106518894
+
+项目后端框架为SPringBoot，请下载全部文件
+
+运行文件需要同时开启前后端调试。
+
+localhost:9090/user/list为后端测试端口

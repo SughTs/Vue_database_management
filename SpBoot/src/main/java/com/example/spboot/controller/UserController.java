@@ -17,6 +17,7 @@ import java.util.List;
 @RequestMapping("/user")
 //添加前缀
 @Service
+@CrossOrigin
 public class UserController
 {
     @Autowired
