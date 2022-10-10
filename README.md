@@ -34,4 +34,8 @@ github仓库建立，地址为：git@github.com:/SughTs/Vue_database_management.
 
 运行文件需要同时开启前后端调试。
 
-localhost:9090/user/list为后端测试端口
+创建localhost:9090/user/list为网页后端测试端口(2022.10.9)
+
+前端问题记录1(2022.10.10)：如何实现页面跳转？
+-
+解决方式：请务必保证在index内成功配置路径，配置方法参考recommend配置。
