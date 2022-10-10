@@ -11,4 +11,7 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mapper/User.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
   #配置xml文件和mapper
